@@ -17,4 +17,4 @@ This Power BI dashboard analyzes **vehicle prices across Australia**, highlighti
 - **Final Dashboard:** A summarized view with a **Brand filter** for deeper analysis  
 
 ## 📸 Dashboard Snapshot  
-![Dashboard Preview](dashboard_snapshot.png)
+![Dashboard Preview](screenshot.png)
